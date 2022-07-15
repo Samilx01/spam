@@ -36,13 +36,13 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@Gladiators_Projects",
+         "value": "@Samilben",
          "required": true
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": ""
+         "value": "5237976814"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -57,12 +57,12 @@
       "SUDO_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Gladiators support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1860999973"
+         "value": "5237976814"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Gladiators support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1860999973"
+         "value": "5237976814"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
